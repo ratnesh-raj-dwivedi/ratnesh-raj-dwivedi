@@ -1,8 +1,8 @@
 ## Hi there 👋
-Myself [Ratnesh Raj Dwivedi](https://www.linkedin.com/in/ratnesh-raj-dwivedi)
+Myself [Ratnesh Dwivedi](https://www.linkedin.com/in/ratnesh-raj-dwivedi)
 
 - 🔭 I’m currently working on Security Testing
-- 🌱 I’m currently learning CyberSecurity Toolkit
+- 🌱 I’m currently learning CyberSecurity Toolkits
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Career Development
 - 💬 Ask me about Security, Forensic
