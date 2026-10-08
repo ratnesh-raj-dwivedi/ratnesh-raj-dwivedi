@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=ratnesh1dwivedi&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)
 -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ratnesh1dwivedi&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ratnesh-raj-dwivedi&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--
 ![](https://nirzak-streak-stats.vercel.app/?user=ratnesh1dwivedi&theme=shadow_green&hide_border=false)<br/>
 [![](https://visitcount.itsvg.in/api?id=ratnesh1dwivedi&icon=0&color=3)](https://visitcount.itsvg.in) 
