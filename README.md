@@ -6,7 +6,6 @@ Myself [Ratnesh Dwivedi](https://www.linkedin.com/in/ratnesh-raj-dwivedi)
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Career Development
 - 💬 Ask me about Security, Forensic
-- 📫 How to reach me: ratneshd202@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ratnesh-raj-dwivedi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ratneshd202@gmail.com) 
